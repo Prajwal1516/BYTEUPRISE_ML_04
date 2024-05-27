@@ -1,0 +1,6 @@
+Prerequisites
+1.Python 3x
+2.Pandas
+3.Numpy
+4.Matplotlin
+5.Scikit-learn
