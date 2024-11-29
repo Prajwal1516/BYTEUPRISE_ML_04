@@ -1,4 +1,4 @@
-# BYTEUPRISE_ML_04
+# House Price Predictor 
 House Price Prediction Model using Linear Regression.
 
 # House Price Prediction with Linear Regression
